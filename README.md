@@ -2,7 +2,7 @@
 
 ### 我是在维军大佬带领下工作的前端渣渣贾奕祯
 
-![My Github Status](https://github-readme-stats.vercel.app/api?username=war408705279&theme=react&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&cache_seconds=1800 "My Github Status")
+![My Github Status](https://github-readme-stats.vercel.app/api?username=war408705279&theme=graywhite&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&cache_seconds=1800 "My Github Status")
 
 目前卖身契签在[七牛](https://www.qiniu.com)，住在上海市郊区（奉贤）的郊区
 
